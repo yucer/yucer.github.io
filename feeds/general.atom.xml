@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>YUCER blog - general</title><link href="https://yucer.github.io/" rel="alternate"></link><link href="https://yucer.github.io/feeds/general.atom.xml" rel="self"></link><id>https://yucer.github.io/</id><updated>2022-07-17T22:22:00+02:00</updated><entry><title>Welcome to my Blog</title><link href="https://yucer.github.io/start.html" rel="alternate"></link><published>2022-07-14T00:33:00+02:00</published><updated>2022-07-17T22:22:00+02:00</updated><author><name>yucer</name></author><id>tag:yucer.github.io,2022-07-14:/start.html</id><summary type="html">&lt;p class="first"&gt;The first step of a Journey&lt;/p&gt;
-&lt;p&gt;The White Rabbit put on his spectacles. 'Where shall I begin, please your
-Majesty?' he asked. 'Begin at the beginning,' the King said gravely, 'and
-go on till you come to the end: then stop.'&lt;/p&gt;
-&lt;p class="last"&gt;Lewis Carroll, Alice's Adventures in Wonderland (1865).&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>YUCER blog - general</title><link href="https://yucer.github.io/" rel="alternate"></link><link href="https://yucer.github.io/feeds/general.atom.xml" rel="self"></link><id>https://yucer.github.io/</id><updated>2022-07-17T22:22:00+02:00</updated><entry><title>Welcome to my Blog</title><link href="https://yucer.github.io/start.html" rel="alternate"></link><published>2022-07-14T00:33:00+02:00</published><updated>2022-07-17T22:22:00+02:00</updated><author><name>yucer</name></author><id>tag:yucer.github.io,2022-07-14:/start.html</id><summary type="html">&lt;p class="first last"&gt;The first step of a Journey&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;After postponing this idea many times in the last years, I have decided to &lt;em&gt;open
 my blog&lt;/em&gt;. The main driver has always been to keep track and comment the
 resources that I find more usefull ore insightful.&lt;/p&gt;
 &lt;p&gt;The blog articles are not intended to follow a predefined order, but cross-references
 might be used in the cases needed.&lt;/p&gt;
 &lt;p&gt;I hope you enjoy the content or find something usefull on it.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The White Rabbit put on his spectacles. 'Where shall I begin, please your
+Majesty?' he asked. 'Begin at the beginning,' the King said gravely, 'and
+go on till you come to the end: then stop.'&lt;/p&gt;
+&lt;p&gt;Lewis Carroll, Alice's Adventures in Wonderland (1865).&lt;/p&gt;
+&lt;/blockquote&gt;
 </content><category term="general"></category><category term="meta"></category></entry></feed>
